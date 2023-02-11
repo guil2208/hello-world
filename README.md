@@ -1,3 +1,3 @@
 # hello-world
 oi
-I'm whe kfing Plato.
+I'm the fking Plato.
